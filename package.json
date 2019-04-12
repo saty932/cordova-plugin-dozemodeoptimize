@@ -1,0 +1,60 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/home/avantsy/data/practice/dozeoptimise",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/home/avantsy/data/practice/dozeoptimise",
+        "spec": "/home/avantsy/data/practice/dozeoptimise",
+        "type": "directory"
+      },
+      "/home/avantsy/data/practice/testing"
+    ]
+  ],
+  "_from": "../dozeoptimise",
+  "_id": "cordova.plugin.dozeoptimise@0.0.1",
+  "_inCache": true,
+  "_location": "/cordova.plugin.dozeoptimise",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/home/avantsy/data/practice/dozeoptimise",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/home/avantsy/data/practice/dozeoptimise",
+    "spec": "/home/avantsy/data/practice/dozeoptimise",
+    "type": "directory"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "file:../dozeoptimise",
+  "_shasum": "90b74406070edd890a03a60886e37f57c143ae3a",
+  "_shrinkwrap": null,
+  "_spec": "/home/avantsy/data/practice/dozeoptimise",
+  "_where": "/home/avantsy/data/practice/testing",
+  "author": {
+    "name": "sathish"
+  },
+  "cordova": {
+    "id": "cordova.plugin.dozeoptimise",
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {},
+  "description": "This is plugin for optimise batteryusage for app in android",
+  "devDependencies": {},
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "ISC",
+  "name": "cordova.plugin.dozeoptimise",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "version": "0.0.1"
+}
