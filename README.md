@@ -14,11 +14,11 @@ if dozemode is already on you can check using isBatteryOptimizationAvalible() me
 if dozemode is on you can turnoff by using the method updateBatteryStatus.
 
 ```
-   cordova.plugins.dozeoptimise.coolMethod("ssdds",(data)=>{
+   cordova.plugins.dozeoptimise.updateBatteryStatus((data)=>{
         console.log(data);
       },(err)=>{
         console.log(err);
       });
-
+      
 ```
 
